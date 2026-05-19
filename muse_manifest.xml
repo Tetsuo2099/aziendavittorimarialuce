@@ -1,0 +1,750 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" ftp_hostname="ftp://ftp.aziendavittorimarialuce.com" ftp_rootfolder="/www.aziendavittorimarialuce.com" exportTarget="FTP" domain="aziendavittorimarialuce.com" resolutions="1x" timestamp="1569234302739">
+  <folder name="css">
+    <file name="site_global.css" crc="4052958208"/>
+    <file name="master_a-mastro.css" crc="129203746" ref="contact:our-products:our-animals:the-farm:index:health-and-beauty"/>
+    <file name="nomq_preview_master_a-mastro.css" crc="4160233882" ref="contact:our-products:our-animals:the-farm:index:health-and-beauty"/>
+    <file name="contact.css" crc="450702234" ref="contact"/>
+    <file name="nomq_contact.css" crc="3829019219" ref="contact"/>
+    <file name="our-products.css" crc="478003905" ref="our-products"/>
+    <file name="nomq_our-products.css" crc="3859604419" ref="our-products"/>
+    <file name="our-animals.css" crc="4045018752" ref="our-animals"/>
+    <file name="nomq_our-animals.css" crc="485528585" ref="our-animals"/>
+    <file name="the-farm.css" crc="27295286" ref="the-farm"/>
+    <file name="nomq_the-farm.css" crc="509141487" ref="the-farm"/>
+    <file name="index.css" crc="398445938" ref="index"/>
+    <file name="nomq_index.css" crc="408119796" ref="index"/>
+    <file name="health-and-beauty.css" crc="305318185" ref="health-and-beauty"/>
+    <file name="nomq_health-and-beauty.css" crc="409944122" ref="health-and-beauty"/>
+  </folder>
+  <folder name="assets">
+    <file name="av_scheda_elisirlungavita.pdf" crc="337135031" seo="true" mt="1485338940000"/>
+    <file name="av_scheda_sceglilolio.pdf" crc="334516133" seo="true" mt="1485340652000"/>
+    <file name="av_scheda_dietameditarrenea.pdf" crc="4134192903" seo="true" mt="1485253628000"/>
+    <file name="av_scheda_findallantichità.pdf" crc="240795174" seo="true" mt="1485172363000"/>
+    <file name="av_scheda_corpoeviso.pdf" crc="3919771697" seo="true" mt="1486390565000"/>
+    <file name="av_scheda_manieunghie.pdf" crc="3860221187" seo="true" mt="1485356931000"/>
+    <file name="av_scheda_capelli.pdf" crc="3762005643" seo="true" mt="1485253302000"/>
+    <file name="av_scheda_elisirlungavita_eng.pdf" crc="247121423" seo="true" mt="1494254735000"/>
+    <file name="av_scheda_sceglilolio_eng.pdf" crc="3905655306" seo="true" mt="1494253866000"/>
+    <file name="av_scheda_dietameditarrenea_eng.pdf" crc="4168560736" seo="true" mt="1494254278000"/>
+    <file name="av_scheda_findallantichità2.pdf" crc="4278612628" seo="true" mt="1494253029000"/>
+    <file name="av_scheda_corpoeviso_eng.pdf" crc="30374461" seo="true" mt="1494252080000"/>
+    <file name="av_scheda_manieunghie_eng.pdf" crc="4231746381" seo="true" mt="1494252520000"/>
+    <file name="av_scheda_capelli_eng.pdf" crc="3768605623" seo="true" mt="1494251577000"/>
+    <file name="bach-cello-suite-1.mp3" crc="3832188967" seo="true" mt="1458130648000"/>
+    <file name="adagio-for-strings.mp3" crc="4291880896" seo="true" mt="1466514036000"/>
+    <file name="salut-d-amour.mp3" crc="343300972" seo="true" mt="1487668102000"/>
+    <file name="chopin-nocturne-op-9-no-2.mp3" crc="409484506" seo="true" mt="1456436280000"/>
+    <file name="vivaldi-winter.mp3" crc="384060468" seo="true" mt="1453983768000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:our-animals:contact:the-farm:our-products:health-and-beauty"/>
+    <file name="museutils.js" crc="3939489907" ref="index:our-animals:contact:the-farm:our-products:health-and-beauty"/>
+    <file name="whatinput.js" crc="86476730" ref="index:our-animals:contact:the-farm:our-products:health-and-beauty"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:our-animals:contact:the-farm:our-products:health-and-beauty"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:our-animals:contact:the-farm:our-products:health-and-beauty"/>
+    <file name="webpro.js" crc="3856315280" ref="index:our-animals:contact:the-farm:our-products:health-and-beauty"/>
+    <file name="musewpdisclosure.js" crc="4294234138" ref="index:our-animals:contact:the-farm:our-products:health-and-beauty"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:health-and-beauty"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:our-animals:contact:the-farm:our-products:health-and-beauty"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:our-animals:the-farm:our-products:health-and-beauty"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:our-animals:the-farm:our-products:health-and-beauty"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:our-animals:the-farm:our-products:health-and-beauty"/>
+    <file name="form_check.php" crc="4108222811" ref="index"/>
+    <file name="form_throttle.php" crc="503802655" ref="index"/>
+    <file name="form_process.php" crc="260214869" ref="index"/>
+    <file name="form-u2400.php" crc="3885054651" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:our-animals:contact:the-farm:our-products:health-and-beauty"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index:our-animals:contact:the-farm:our-products:health-and-beauty"/>
+    <file name="require.js" crc="4177726516" ref="index:our-animals:contact:the-farm:our-products:health-and-beauty"/>
+    <file name="form-u74205.php" crc="94083031" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="home-favicon.ico" crc="3759494311" ref="index"/>
+    <file name="m_logo_vittori.svg" crc="350357345" seo="true" ref="index:our-animals:contact:the-farm:our-products:health-and-beauty">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+    </file>
+    <file name="m_logo_vittori_poster_.png" crc="142773780" ref="index"/>
+    <file name="m_logo_vittori_brown.svg" crc="195087116" seo="true" ref="index:our-animals:contact:the-farm:our-products:health-and-beauty">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+    </file>
+    <file name="m_logo_vittori_brown_poster_.png" crc="198097348" ref="index"/>
+    <file name="facebook_square_grey.svg" crc="4077848944" seo="true" ref="index:our-animals:contact:the-farm:our-products:health-and-beauty">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+    </file>
+    <file name="facebook_square_grey_poster_.png" crc="506336327" ref="index"/>
+    <file name="insta_square_grey.svg" crc="454329580" seo="true" ref="index:our-animals:contact:the-farm:our-products:health-and-beauty">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+    </file>
+    <file name="insta_square_grey_poster_.png" crc="4072680625" ref="index"/>
+    <file name="close_musemenupro.png" crc="481936843" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="close_musemenuprob.png" crc="294924595" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="14206215_1731673117084871_2026334077740225521_o.jpg" crc="4176537430" seo="true" ref="index:our-products">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:our-animals:contact:the-farm:our-products:health-and-beauty"/>
+    <file name="barricaia.jpg" crc="3998682122" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_1065~2.jpg" crc="4085165021" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="14991309_1758566807728835_351446007266236063_o.jpg" crc="332262320" seo="true" ref="index:our-products">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+    </file>
+    <file name="13603430_1709129679339215_1448120309275000484_o.jpg" crc="101535619" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:our-animals:the-farm:our-products:health-and-beauty"/>
+    <file name="gototop_prodigy.png" crc="4035638663" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="up_ex_prod_left.png" crc="533905041" ref="index">
+      <caption webpage="index" alt="QUICK ACCESS"/>
+      <caption webpage="index" alt="QUICK ACCESS"/>
+    </file>
+    <file name="up_ex_prod_over_left.png" crc="4032450106" ref="index">
+      <caption webpage="index" alt="QUICK ACCESS"/>
+      <caption webpage="index" alt="QUICK ACCESS"/>
+    </file>
+    <file name="close_ex_prod_long.png" crc="3831553949" ref="index">
+      <caption webpage="index" alt="QUICK ACCESS"/>
+      <caption webpage="index" alt="QUICK ACCESS"/>
+    </file>
+    <file name="up_ex_prod.png" crc="357805855" ref="index">
+      <caption webpage="index" alt="LOCATION"/>
+      <caption webpage="index" alt="LOCATION"/>
+    </file>
+    <file name="up_ex_prod_over.png" crc="3949501617" ref="index">
+      <caption webpage="index" alt="LOCATION"/>
+      <caption webpage="index" alt="LOCATION"/>
+    </file>
+    <file name="close_ex_prod.png" crc="4125423105" ref="index">
+      <caption webpage="index" alt="LOCATION"/>
+      <caption webpage="index" alt="LOCATION"/>
+    </file>
+    <file name="matilde_2.jpg" crc="4110388411" seo="true" ref="our-animals">
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+    </file>
+    <file name="foto_new_02.jpg" crc="3768963639" seo="true" ref="our-animals">
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+    </file>
+    <file name="_prl6182mod.jpg" crc="392294558" seo="true" ref="our-animals">
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+    </file>
+    <file name="img_0035.jpg" crc="3791881123" seo="true" ref="our-animals">
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+    </file>
+    <file name="img_0140.jpg" crc="426739315" seo="true" ref="our-animals">
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+    </file>
+    <file name="lincolm.jpg" crc="145441763" seo="true" ref="our-animals">
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+    </file>
+    <file name="009.jpg" crc="223691278" seo="true" ref="our-animals">
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+    </file>
+    <file name="013-1.jpg" crc="3963049801" seo="true" ref="our-animals">
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+    </file>
+    <file name="15843929_1783679151884267_4154213047376151752_o.jpg" crc="3819328321" seo="true" ref="our-animals">
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+    </file>
+    <file name="15875106_1783679091884273_3282267639867162835_o.jpg" crc="4092079085" seo="true" ref="our-animals">
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+    </file>
+    <file name="15776991_1783679271884255_7032928098666240074_o.jpg" crc="338339853" seo="true" ref="our-animals">
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+      <caption webpage="our-animals" alt=""/>
+    </file>
+    <file name="agriturismoesterno_2.jpg" crc="387591067" seo="true" ref="the-farm">
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+    </file>
+    <file name="img_8606.jpg" crc="34341737" seo="true" ref="the-farm">
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+    </file>
+    <file name="finestra.jpg" crc="253459394" seo="true" ref="the-farm">
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+    </file>
+    <file name="13603532_1709130659339117_9003196323085658632_o.jpg" crc="199913194" seo="true" ref="the-farm">
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+    </file>
+    <file name="dsc_0099.jpg" crc="3892030731" seo="true" ref="the-farm">
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+      <caption webpage="the-farm" alt=""/>
+    </file>
+    <file name="13641030_1709127669339416_5019692613454160035_o.jpg" crc="1918417" seo="true" ref="our-products">
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+    </file>
+    <file name="14068522_1726317877620395_653092975899350232_o.jpg" crc="4096199900" seo="true" ref="our-products">
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+    </file>
+    <file name="immagine 072.jpg" crc="521847433" seo="true" ref="our-products">
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+    </file>
+    <file name="14976579_1758575984394584_7654653892057664978_o.jpg" crc="213244362" seo="true" ref="our-products">
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+    </file>
+    <file name="14939529_1756894917896024_5351723475801325191_o.jpg" crc="4255040450" seo="true" ref="our-products">
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+    </file>
+    <file name="14940024_1756899614562221_8644020655328464071_o.jpg" crc="155041542" seo="true" ref="our-products">
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+    </file>
+    <file name="14940139_1758567001062149_9181478297765922550_o.jpg" crc="4074058805" seo="true" ref="our-products">
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+    </file>
+    <file name="15016337_1758565047729011_3056705323244618583_o.jpg" crc="4268726025" seo="true" ref="our-products">
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+      <caption webpage="our-products" alt=""/>
+    </file>
+    <file name="https---cdnevbuccom-images-25521903-191867324123-1-original.jpg" crc="4078718366" seo="true" ref="health-and-beauty">
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+    </file>
+    <file name="1d214147556c7c034a1642f44bfcf65e.jpg" crc="311296210" seo="true" ref="health-and-beauty">
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+    </file>
+    <file name="1359.jpg" crc="232678546" seo="true" ref="health-and-beauty">
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+    </file>
+    <file name="foto scheda corpo.jpg" crc="127233490" seo="true" ref="health-and-beauty">
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+    </file>
+    <file name="fonfo_prodotti_web.jpg" crc="4024272922" ref="health-and-beauty">
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+    </file>
+    <file name="pdf_download_health.svg" crc="3806501524" seo="true" ref="health-and-beauty">
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+    </file>
+    <file name="pdf_download_health_poster_.png" crc="279567760" ref="health-and-beauty"/>
+    <file name="pdf_download_beauty.svg" crc="4048058647" seo="true" ref="health-and-beauty">
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+      <caption webpage="health-and-beauty" alt=""/>
+    </file>
+    <file name="pdf_download_beauty_poster_.png" crc="3900161351" ref="health-and-beauty"/>
+    <file name="fonfo_prodotti_web-u81875-fr.jpg" crc="237129258" ref="health-and-beauty"/>
+    <file name="fonfo_prodotti_web-u81875-fr2.jpg" crc="145998173" ref="health-and-beauty"/>
+  </folder>
+  <file name="index.html" crc="3883952655" seo="true" mt="1569234077229" redirect="true"/>
+  <file name="our-animals.html" crc="4016038654" seo="true" mt="1569234077229" redirect="true"/>
+  <file name="contact.html" crc="4071014127" seo="true" mt="1569234077229" redirect="true"/>
+  <file name="the-farm.html" crc="3994630536" seo="true" mt="1569234077229" redirect="true"/>
+  <file name="our-products.html" crc="4252187053" seo="true" mt="1569234077229" redirect="true"/>
+  <file name="health-and-beauty.html" crc="3983669329" seo="true" mt="1569234077229" redirect="true"/>
+  <site>
+    <asset filename="av_scheda_elisirlungavita.pdf" muse_href="upload:U86071"/>
+    <asset filename="av_scheda_sceglilolio.pdf" muse_href="upload:U86073"/>
+    <asset filename="av_scheda_dietameditarrenea.pdf" muse_href="upload:U86075"/>
+    <asset filename="av_scheda_findallantichità.pdf" muse_href="upload:U86077"/>
+    <asset filename="av_scheda_corpoeviso.pdf" muse_href="upload:U86079"/>
+    <asset filename="av_scheda_manieunghie.pdf" muse_href="upload:U86081"/>
+    <asset filename="av_scheda_capelli.pdf" muse_href="upload:U86083"/>
+    <asset filename="av_scheda_elisirlungavita_eng.pdf" muse_href="upload:U94174"/>
+    <asset filename="av_scheda_sceglilolio_eng.pdf" muse_href="upload:U94176"/>
+    <asset filename="av_scheda_dietameditarrenea_eng.pdf" muse_href="upload:U94178"/>
+    <asset filename="av_scheda_findallantichità2.pdf" muse_href="upload:U94180"/>
+    <asset filename="av_scheda_corpoeviso_eng.pdf" muse_href="upload:U94182"/>
+    <asset filename="av_scheda_manieunghie_eng.pdf" muse_href="upload:U94184"/>
+    <asset filename="av_scheda_capelli_eng.pdf" muse_href="upload:U94186"/>
+    <asset filename="bach-cello-suite-1.mp3" muse_href="upload:U99022"/>
+    <asset filename="adagio-for-strings.mp3" muse_href="upload:U99024"/>
+    <asset filename="salut-d-amour.mp3" muse_href="upload:U99026"/>
+    <asset filename="chopin-nocturne-op-9-no-2.mp3" muse_href="upload:U99028"/>
+    <asset filename="vivaldi-winter.mp3" muse_href="upload:U101208"/>
+    <paragraphStyle className="normal_text" uid="U49"/>
+    <paragraphStyle className="hero-text" uid="U837"/>
+    <paragraphStyle className="expandables" uid="U873"/>
+    <paragraphStyle className="Footer" uid="U902"/>
+    <paragraphStyle className="submenus" uid="U925"/>
+    <paragraphStyle className="Stile-paragrafo" uid="U3343"/>
+    <paragraphStyle className="Titolo" uid="U3344"/>
+    <paragraphStyle className="Stile-paragrafo-2" uid="U3345"/>
+    <paragraphStyle className="Stile-paragrafo-3" uid="U3346"/>
+    <paragraphStyle className="Stile-paragrafo-4" uid="U3347"/>
+    <paragraphStyle className="Stile-paragrafo-5" uid="U3348"/>
+    <paragraphStyle className="Stile-paragrafo-6" uid="U3349"/>
+    <paragraphStyle className="Stile-paragrafo-7" uid="U3350"/>
+    <paragraphStyle className="Stile-paragrafo-1" uid="U3351"/>
+    <paragraphStyle className="Stile-paragrafo-8" uid="U3352"/>
+    <paragraphStyle className="Stile-paragrafo-9" uid="U3353"/>
+    <nestedListStyle className="nls-None" uid="U52"/>
+  </site>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Home" filename="index.html" muse_href="page:U93" master="U72">
+        <breakpoint uid="U104511" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U37581" maxwidth="500" minwidth="321" squishy="true"/>
+        <breakpoint uid="U102308" maxwidth="960" minwidth="501" squishy="true"/>
+        <breakpoint uid="U91532" maxwidth="1200" minwidth="961" squishy="true"/>
+        <breakpoint uid="U83" maxwidth="1400" minwidth="1201" squishy="true"/>
+      </page>
+      <masterPage name="A-Mastro" master="U62" uid="U72">
+        <breakpoint uid="U104117" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U103920" maxwidth="500" minwidth="321" squishy="true"/>
+        <breakpoint uid="U90653" maxwidth="960" minwidth="501" squishy="true"/>
+        <breakpoint uid="U44894" maxwidth="1200" minwidth="961" squishy="true"/>
+        <breakpoint uid="U63074" maxwidth="1400" minwidth="1201" squishy="true"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U62">
+        <breakpoint uid="U63" maxwidth="960" minwidth="0" squishy="true"/>
+      </masterPage>
+      <page name="Our Animals" filename="our-animals.html" muse_href="page:U255" master="U72">
+        <breakpoint uid="U117857" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U102491" maxwidth="500" minwidth="321" squishy="true"/>
+        <breakpoint uid="U102401" maxwidth="960" minwidth="501" squishy="true"/>
+        <breakpoint uid="U89874" maxwidth="1200" minwidth="961" squishy="true"/>
+        <breakpoint uid="U245" maxwidth="1400" minwidth="1201" squishy="true"/>
+      </page>
+      <page name="Contact" filename="contact.html" muse_href="page:U279" master="U72">
+        <breakpoint uid="U119177" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U119125" maxwidth="500" minwidth="321" squishy="true"/>
+        <breakpoint uid="U101315" maxwidth="960" minwidth="501" squishy="true"/>
+        <breakpoint uid="U101275" maxwidth="1200" minwidth="961" squishy="true"/>
+        <breakpoint uid="U269" maxwidth="1400" minwidth="1201" squishy="true"/>
+      </page>
+      <page name="The Farm" filename="the-farm.html" muse_href="page:U77275" master="U72">
+        <breakpoint uid="U105884" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U76945" maxwidth="500" minwidth="321" squishy="true"/>
+        <breakpoint uid="U102040" maxwidth="960" minwidth="501" squishy="true"/>
+        <breakpoint uid="U90421" maxwidth="1200" minwidth="961" squishy="true"/>
+        <breakpoint uid="U77129" maxwidth="1400" minwidth="1201" squishy="true"/>
+      </page>
+      <page name="Our Products" filename="our-products.html" muse_href="page:U78390" master="U72">
+        <breakpoint uid="U117284" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U106003" maxwidth="500" minwidth="321" squishy="true"/>
+        <breakpoint uid="U101892" maxwidth="960" minwidth="501" squishy="true"/>
+        <breakpoint uid="U101744" maxwidth="1200" minwidth="961" squishy="true"/>
+        <breakpoint uid="U78168" maxwidth="1400" minwidth="1201" squishy="true"/>
+      </page>
+      <page name="Health and Beauty" filename="health-and-beauty.html" muse_href="page:U81393" master="U72">
+        <breakpoint uid="U117670" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U117480" maxwidth="500" minwidth="321" squishy="true"/>
+        <breakpoint uid="U101573" maxwidth="960" minwidth="501" squishy="true"/>
+        <breakpoint uid="U101402" maxwidth="1200" minwidth="961" squishy="true"/>
+        <breakpoint uid="U92387" maxwidth="1400" minwidth="1201" squishy="true"/>
+      </page>
+    </rendition>
+  </renditions>
+</manifest>
